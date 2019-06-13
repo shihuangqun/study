@@ -5,7 +5,7 @@ class Index
 {
     public function index()
     {
-        phpinfo();
+        phpinfo();66;
     }
 
     public function hello($name = 'ThinkPHP5')
