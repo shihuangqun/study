@@ -2,19 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5b59ec9-b6e6-4865-b1bd-397915a41ca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/application/index/controller/Common.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/index/controller/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/index/show_report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/login/editpas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dtang/duitang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/admin/view/article/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/admin/view/article/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/admin/view/public/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/admin/view/public/_header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/admin/view/public/_meta.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/admin/view/public/_meta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/admin/view/video/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/admin/view/video/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Cate.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Cate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Comment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Common.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Common.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Search.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/Search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/controller/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/cate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/cate/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/1fa39a3ae613036e1594382736a6dfff.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/1fa39a3ae613036e1594382736a6dfff.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/34d6526a61ee91b57384bdb71a186047.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/34d6526a61ee91b57384bdb71a186047.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/382293d387e957f0e323b8d2408b1fc0.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/382293d387e957f0e323b8d2408b1fc0.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/541fed4431bf368d56dc79dcc2ba803a.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/541fed4431bf368d56dc79dcc2ba803a.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/97bd806c04dcfc06aea9d7e0593767f5.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/97bd806c04dcfc06aea9d7e0593767f5.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/d0eab76024e2570b2c4c4d9e7d5b936d.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/d0eab76024e2570b2c4c4d9e7d5b936d.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/index/report_show.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/index/report_show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/index/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/index/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/login/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/login/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/public/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/public/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/public/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/public/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/register/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/register/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/search/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/search/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/search/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/search/video_show.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/search/video_show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/album.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/album.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/album_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/album_info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/album_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/album_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/follow.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/follow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/like.html" beforeDir="false" afterPath="$PROJECT_DIR$/../dtang/duitang/application/index/view/user/like.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/0e781f4c0800b9d10025f7df27cb141f.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/0fd2c71d2b2e922f03badf433a467cc1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/178cf41e717148939e57da7be10d7020.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/1b9f87e01148790ec607e20d1f1f7e8a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/1db45715622487bbc9eaf95c1e41be8c.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/1fa39a3ae613036e1594382736a6dfff.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/215a0804558be3f5007bd21cd3caea93.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/25c3d8f16bb67730cbff6fbf6fa54370.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/34d6526a61ee91b57384bdb71a186047.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/3614737f3f273f5ae9820c64471a8c40.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/382293d387e957f0e323b8d2408b1fc0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/42d404184b920601482c7cfda032f531.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/43f026ffab8dfb9dc25c38a20da33841.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/46b54b1beaccdce75666f47446e24114.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/4718f9c46cb68f558fe1b5b596c748fa.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/474e1d477051e9c787d0f278ef35624f.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/4d3e995a7ceed8ac3a8bec9c2f8ca8d0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/541fed4431bf368d56dc79dcc2ba803a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/5d626b6d93cd8cd542214a41d0059a73.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/708a938b1ddb4cb4cffa3e344b868c4f.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/971441579b4a98b0023cda8734f2c3e0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/97bd806c04dcfc06aea9d7e0593767f5.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/98862949f3a42904c73fa61fa31c6ca0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/a6fd814a69c2a9dda17be973ab435017.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/b49d8cdc08ccc15f6564653ab92490b8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/b52f1f416805d73672e90e5c5fe1b212.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/c637194b914eceac2ba94de910d8ccb0.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/d0eab76024e2570b2c4c4d9e7d5b936d.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/d75ce98dd21aa060ca12aa75c7227dfb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/d79fbc55a5998ed7162f8da1bbb0f749.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/e44fa11a3902b6814103383c9282488c.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/ee3ab9be3125c9eb67157431497be2b4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/efa8d79459a115e9902f1e3b9771fd92.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/f22b048a607e97217f7b8f268844b5c6.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/f3834ae01952248a07c74b72096724a1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/f5c112dbfc110b7bf4805bbed34f8b33.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dtang/duitang/runtime/temp/fa8162b0fab3a2f88c4b4a2901e92905.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/index/controller/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/controller/Index.php" afterDir="false" />
     </list>
@@ -31,46 +89,81 @@
     <session id="1626896499">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="conf" value="2" />
           <entry key="html" value="2" />
-          <entry key="php" value="27" />
+          <entry key="php" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="PHP" value="27" />
+          <entry key="PHP" value="32" />
+          <entry key="SmartyConfig" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="18" />
-          <entry key="php" value="3607" />
+          <entry key="php" value="3626" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="18" />
-          <entry key="PHP" value="3607" />
+          <entry key="PHP" value="3626" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/index/controller/User.php">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1235">
+              <caret line="70" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
+              <folding>
+                <element signature="e#127#156#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/index/controller/Index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/index/controller/Common.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="e#127#141#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,6 +181,7 @@
     <findStrings>
       <find>CACHE_PATH</find>
       <find>5</find>
+      <find>daemonize</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,8 +200,8 @@
         <option value="$PROJECT_DIR$/config/cache.php" />
         <option value="$PROJECT_DIR$/thinkphp/library/think/cache/driver/Redis.php" />
         <option value="$PROJECT_DIR$/extend/redis/Redis.php" />
-        <option value="$PROJECT_DIR$/application/index/controller/User.php" />
         <option value="&lt;e1d57d15-e718-4dd0-9921-25a6f331ddb4&gt;/application/index/controller/Index.php" />
+        <option value="$PROJECT_DIR$/application/index/controller/User.php" />
         <option value="$PROJECT_DIR$/application/index/controller/Index.php" />
       </list>
     </option>
@@ -127,7 +221,7 @@
       <path value="$PROJECT_DIR$/vendor/topthink/think-installer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="1932" />
     <option name="height" value="1040" />
@@ -138,7 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,20 +247,13 @@
             <path>
               <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
               <item name="tp5" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tp5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tp5" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,17 +297,21 @@
       <workItem from="1560215237170" duration="23000" />
       <workItem from="1560246650808" duration="1002000" />
       <workItem from="1560305006415" duration="1015000" />
+      <workItem from="1560496514693" duration="3729000" />
+      <workItem from="1560580609244" duration="865000" />
+      <workItem from="1560581937238" duration="20000" />
+      <workItem from="1560582269443" duration="604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18080000" />
+    <option name="totallyTimeSpent" value="23298000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26279318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27345416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -236,11 +326,12 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info active="true" anchor="right" id="Remote Host" order="4" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,13 +351,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config.php" />
-    <entry file="file://$PROJECT_DIR$/application/index/controller/Common.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thinkphp/library/think/App.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -287,13 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -308,17 +385,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/index/controller/Index.php">
+    <entry file="file://D:/Documents/NetSarang Computer/6/Xftp/Temporary/redis [2].conf" />
+    <entry file="file://D:/Documents/NetSarang Computer/6/Xftp/Temporary/redis [3].conf" />
+    <entry file="file://$PROJECT_DIR$/application/index/controller/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="1235">
+          <caret line="70" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
+          <folding>
+            <element signature="e#127#156#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/index/controller/User.php">
+    <entry file="file://$PROJECT_DIR$/application/index/controller/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#127#141#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/controller/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
         </state>
       </provider>
     </entry>

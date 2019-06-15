@@ -5,7 +5,7 @@ class Index
 {
     public function index()
     {
-        phpinfo();66;
+//        $serv = new Swoole\Server('0.0.0.0', 9501, SWOOLE_BASE, SWOOLE_SOCK_TCP);
     }
 
     public function hello($name = 'ThinkPHP5')
