@@ -73,9 +73,6 @@
             var content = $('#content').val();
             websocket.send(content);
             $('#content').val('');
-
-
-
         })
 
         websocket.onmessage = function(e){
